@@ -1,0 +1,14 @@
+^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C>
+u                                               n
+<   0123  6   0 2   6 8901   5678  1234 6789    >
+u   1   5 7   1 34 67 9   3 5     1     7   1   n
+<   2   6 8   2 4 6 8 0123   789  2     8901    >
+u   3   7 9   3 5   9 1         1 3     9  2    n
+<   4567   123  6   0 2     8901   5678 0   4   >
+u                                               n
+< Some crappy thing I hacked together ages ago. >
+u It's served me well over the years, but YMMV. n
+< Requires libpng and xcb. Accepts no arguments >
+u and outputs to dumpscr.png. Filler text here. n
+<                                               >
+)v)v)v)v)v)v)v)v)v)v)v)v)v)v)v)v)v)v)v)v)v)v)v)vn
